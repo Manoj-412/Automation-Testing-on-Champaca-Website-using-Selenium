@@ -1,6 +1,10 @@
 # Automation-Testing-on-Champaca-Website-using-Selenium
 This is an automated project created using selenium webdriver in python language
 
+# preview
+![home](https://github.com/user-attachments/assets/4dd965a0-273e-4402-8242-883535715a28)
+
+
 # Features
 1. Comprehensive Test Coverage: Automated tests are designed to cover critical functionalities of the Champaca website, including user login, product search, cart management, and checkout processes.
 2. Data-Driven Testing: Input data, such as login credentials and product details, are provided through external files, enabling efficient and flexible test execution.
